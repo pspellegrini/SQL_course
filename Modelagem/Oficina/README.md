@@ -2,7 +2,7 @@
 Desafio promovido pala plataforma [DIO](https://dio.me/sign-up?ref=K9SYA3A7NE) - Digital Innovation One, no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817).
 
 ## Sobre o desafio
-Criação de um esquema conceitual do zero, a partir da narrativa fornecida de modo a criar as entidades. relacionamentos e atributos pertinentes.
+Criação de um esquema conceitual do zero, a partir da narrativa fornecida de modo a criar as entidades, relacionamentos e atributos pertinentes.
 
 ## Narrativa
 * Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
