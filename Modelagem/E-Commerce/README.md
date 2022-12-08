@@ -1,5 +1,5 @@
 # Projeto Conceitual: E-commerce
-Desafio promovido pala plataforma [DIO](https://dio.me/sign-up?ref=K9SYA3A7NE) - Digital Innovation One, no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817).
+Desafio promovido pela plataforma [DIO](https://dio.me/sign-up?ref=K9SYA3A7NE) - Digital Innovation One, no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817).
 
 ## Sobre o desafio
 O desafio consiste em realizar a modelagem de dados a um projeto conceitual de E-Commerce, utilizando os conceitos desenvolvidos em aula, simulando de maneira prática o funcionamento da modelagem de dados.
