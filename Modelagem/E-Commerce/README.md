@@ -1,4 +1,4 @@
-# Projeto Conceitual: E-commerce
+# Desafio de Projeto Conceitual: E-commerce
 Desafio promovido pala plataforma [DIO](https://dio.me/sign-up?ref=K9SYA3A7NE) - Digital Innovation One, no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817).
 
 ## Sobre o desafio
