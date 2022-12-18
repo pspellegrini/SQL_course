@@ -16,7 +16,7 @@ Refinamento de um esquema conceitual de E-commerce, a partir da narrativa fornec
 
 *Modelo desenvolvido em MySQL Workbench*
 
-<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:25%;" />
+<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:10%;" />
 
 
 

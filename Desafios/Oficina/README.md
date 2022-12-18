@@ -20,4 +20,4 @@ Criação de um esquema conceitual do zero, a partir da narrativa fornecida de m
 
 *Modelo desenvolvido em MySQL Workbench*
 
-<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:25%;" />
+<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:10%;" />
