@@ -19,5 +19,3 @@ Criação de um esquema conceitual do zero, a partir da narrativa fornecida de m
 * Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 *Modelo desenvolvido em MySQL Workbench*
-
-<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:10%;" />
