@@ -1,12 +1,26 @@
-# Projeto Conceitual: E-commerce
-Desafio promovido pela plataforma [DIO](https://dio.me/sign-up?ref=K9SYA3A7NE) - Digital Innovation One, no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817).
+# 📋Projeto Conceitual: E-commerce
+Desafio😅 promovido pela plataforma [dio._](https://dio.me/sign-up?ref=K9SYA3A7NE), no bootcamp [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817), seguindo o conceito de Project-Based Learning/Problem-Based Learning (PBL).
 
-## Sobre o desafio
-O desafio consiste em realizar a modelagem de dados a um projeto conceitual de E-Commerce, utilizando os conceitos desenvolvidos em aula, simulando de maneira prática o funcionamento da modelagem de dados.
 
-Foi solicitado um refinamento no modelo de modo a contemplar os seguintes pontos:
+
+### 🏆Sobre o desafio
+Refinamento de um esquema conceitual de E-commerce, a partir da narrativa fornecida de modo a criar as entidades, relacionamentos e atributos pertinentes.
+
+
+
+### 📜Narrativa
+
 * Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 * Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 * Entrega – Possui status e código de rastreio.
 
 *Modelo desenvolvido em MySQL Workbench*
+
+<img src="https://hermes.digitalinnovation.one/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" alt="This is an image" style="zoom:25%;" />
+
+
+
+
+
+
+
