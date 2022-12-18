@@ -17,5 +17,5 @@ Abaixo é possível visualizar e acessar todos os desafios realizados e seus res
 
 Ao longo dos bootcamps foi possível desenvolver algumas habilidades, sendo as principais:
 
-- 🔓Git✔️
+- ✔️Git🔓
 - 🔓✔️SQL
