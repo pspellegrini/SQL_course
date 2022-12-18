@@ -1,6 +1,8 @@
 # 🗃Repositório Desafios dio._
 
-Repositório dedicado aos desafios😅 promovidos pela plataforma [dio._](https://dio.me/sign-up?ref=K9SYA3A7NE).
+Repositório dedicado aos desafios😅 promovidos pela plataforma [dio._](https://dio.me/sign-up?ref=K9SYA3A7NE), seguindo o conceito de Project-Based Learning/Problem-Based Learning (PBL).
+
+
 
 ### 🚀Bootcamps e 🏆desafios
 Abaixo é possível visualizar e acessar todos os desafios realizados e seus respectivos bootcamps:
@@ -17,5 +19,5 @@ Abaixo é possível visualizar e acessar todos os desafios realizados e seus res
 
 Ao longo dos bootcamps foi possível desenvolver algumas habilidades, sendo as principais:
 
-- ✔️Git🔓
+- 🔓✔️Git
 - 🔓✔️SQL
